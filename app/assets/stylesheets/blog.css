@@ -1,0 +1,6 @@
+.blog {
+   /*background-clip: url('https://youtu.be/dr5gbS4vtUw');*/
+  background-size: cover ;
+  height: 100vh;
+  border: solid red 1px;
+}
